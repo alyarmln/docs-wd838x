@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-n4id40.hartawin.online/sitemap.xml
